@@ -1,0 +1,1 @@
+# Sum-Of-Pairs-Score-Blosum62
